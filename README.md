@@ -6,3 +6,6 @@ In the project I have submitted the project0. with additional files. I have pick
 4) get started page (reg.html)
 5) logo that are used in the project0
 6)table page (table.html)
+
+I have not used sass file becouse I have tried to convert scss to css but I can not do that in windows, I have tried the same as sir has done lecture1 but it shows me error.
+Thanks
