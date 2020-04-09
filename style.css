@@ -1,0 +1,108 @@
+body{
+	
+	font-family:helvatica, "helvatica neue";
+	font-size: 16px;
+
+}
+section {
+text-align:center;
+}
+
+header{}
+#title{font-family: pacifico;
+float: left;
+width:30%;
+color:#ff0000;
+}
+
+
+#logo{width: 20%;
+float: left;
+margin-top: 1em;
+}
+#nav{
+
+}
+.getstarted {
+	background-color: blue;
+}
+nav ul li{ display:inline; 
+float: left;
+margin-top: 2rem;
+padding: 10px;
+width: 10%;}
+
+ul li a {text-decoration: none;
+font-family:economica;
+color:#ff0000;
+font-size: 1.6em; }
+
+ul li{
+	margin-bottom: 3em;
+}
+
+ol li {display: inline;
+font-size: 40px;
+padding: 5%;
+font-family: economica;
+margin-top: 2em;
+}
+
+
+{}
+
+ol li a{color:white;
+text-decoration:none;
+}
+
+.clear {
+  clear: both;
+  display: block;
+  overflow: hidden;
+  visibility: hidden;
+  width: 0;
+  height: 0;
+}
+
+.clearfix:before,
+.clearfix:after,
+.container:before,
+.container:after {
+  content: '.';
+  display: block;
+  overflow: hidden;
+  visibility: hidden;
+  font-size: 0;
+  line-height: 0;
+  width: 0;
+  height: 0;
+}
+
+.clearfix:after,
+.container_12:after {
+  clear: both;
+}
+
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  
+
+}
+.container nav ol {background-color: #ff0000;
+padding: 10px;
+margin-top: 130px;
+}
+
+/*
+  The following zoom:1 rule is specifically for IE6 + IE7.
+  Move to separate stylesheet if invalid CSS is a problem.
+*/
+
+.clearfix,
+.container_12 {
+  zoom: 1;
+}
+.content{text-align: left;
+}
